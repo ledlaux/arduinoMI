@@ -1,6 +1,8 @@
 # arduinoMI
 Ports of mutable intstruments eurorack code to arduino.
 
+    NOTE: I did these ports with version 1.8.19 and continue to use that version since 2.x has numerous issues. I'm working on it, but if you want to get going quickly, use 1.8.19. 
+
 Current status, 16.12.2025:
 * braids works well on the RP2040/RP2350
 * tides works well, or so I believe on RP2040/RP2350
