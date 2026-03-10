@@ -19,3 +19,6 @@
 [submodule "RINGS"]
 	path = RINGS
 	url = git@github.com:poetaster/RINGS.git
+[submodule "marvelousMI"]
+	path = marvelousMI
+	url = git@github.com:poetaster/marvelousMI.git
