@@ -20,6 +20,8 @@ BraidsEngines, PlaitsEngines, RingsEngines, are just duplicates for ease of edit
 
 A number of sketches for the tonetoys scarp (my button punching pico project https://github.com/poetaster/scarp) are included here as it's convenient. For me :)
 
+The marevlousMI submodule is for the mini modular synth including braids, plaits and rings. See https://github.com/poetaster/marvelousMI for more information
+
 To use the sketch, copy (or clone the submodules) STMLIB and BRAIDS (for instance) directories to you ~/Arduino/libraries folder, open the BraidsEngines sketch change 
 ```
 #define PWMOUT 22
